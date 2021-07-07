@@ -38,7 +38,7 @@ Try running this project locally following the above steps:
 ### Citations:
 
 1. Birjandtalab, Javad, Diana Cogan, Maziyar Baran Pouyan, and Mehrdad Nourani, A Non-EEG Biosignals Dataset for Assessment and Visualization of Neurological Status, 2016 IEEE International Workshop on Signal Processing Systems (SiPS), Dallas, TX, 2016, pp. 110-114. doi: 10.1109/SiPS.2016.27
-2. 2. Greco, Alberto & Valenza, Gaetano & lanatà, Antonio & Scilingo, Enzo & Citi, Luca. (2016). cvxEDA: A Convex Optimization Approach to Electrodermal Activity Processing. IEEE Transactions on Biomedical Engineering. 2016. 797-804. 10.1109/TBME.2015.2474131. 
+2. Greco, Alberto & Valenza, Gaetano & lanatà, Antonio & Scilingo, Enzo & Citi, Luca. (2016). cvxEDA: A Convex Optimization Approach to Electrodermal Activity Processing. IEEE Transactions on Biomedical Engineering. 2016. 797-804. 10.1109/TBME.2015.2474131. 
 3. S. Begum, "Sensor signal processing to extract features from finger temperature in a case-based stress classification scheme," 2009 IEEE International Symposium on Intelligent Signal Processing, 2009, pp. 193-198
 5. Zhu, J., San-Segundo, R. & Pardo, J.M. Feature extraction for robust physical activity recognition. Hum. Cent. Comput. Inf. Sci. 7, 16 (2017). https://doi.org/10.1186/s13673-017-0097-2
 6. Khadija El Bouchefry PhD, Rafael S. de Souza PhD, in Knowledge Discovery in Big Data from Astronomy and Earth Observation, 2020.
